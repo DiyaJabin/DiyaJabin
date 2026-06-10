@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Diya 👋
 
-<!--
-**DiyaJabin/DiyaJabin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE-AIR Student @ VIT Chennai
 
-Here are some ideas to get you started:
+🤖 Aspiring Robotics Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- ROS2
+- DSA
+- Computer Vision
+
+🚀 Current Goal
+Build robots that help humans perform dangerous tasks.
+
+## Tech Stack
+
+Python • Java • LangChain • Git • Linux
+
+## Featured Projects
+
+### Smart College Assistant
+AI-powered assistant built using LangChain and Ollama.
+
+### Python Learning Repository
+Collection of projects from the 100 Days of Code Bootcamp.
+
+## Current Robotics Roadmap
+
+☑ Python
+
+☑ AI Fundamentals
+
+🔄 ROS2
+
+🔄 Computer Vision
+
+⬜ Autonomous Navigation
+
+⬜ SLAM
+
+⬜ Personal Assistant Robot
