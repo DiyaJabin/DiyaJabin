@@ -10,7 +10,7 @@
 - Computer Vision
 
 🚀 Current Goal
-Build robots that help humans perform dangerous tasks.
+- Build robots that help humans perform dangerous tasks.
 
 ## Tech Stack
 
