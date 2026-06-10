@@ -1,3 +1,4 @@
+<img width="1500" height="500" alt="DIYA JABIN" src="https://github.com/user-attachments/assets/40221a58-989c-449f-ab34-19ca60a4d8c7" />
 # Hi, I'm Diya 👋
 
 🎓 CSE-AIR Student @ VIT Chennai
