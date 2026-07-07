@@ -89,6 +89,7 @@ AI-powered academic assistant using LangChain tool-calling agents.
 ### 💼 HR Assistant
 
 Local RAG-powered HR assistant built with Ollama, FAISS, and LangChain.
+
 ---
 
 ## 🎯 Current Roadmap
