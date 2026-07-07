@@ -14,64 +14,125 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student specializing in Artificial Intelligence and Robotics, currently exploring the intersection of AI, software engineering, and robotics.
+I'm a Computer Science student specializing in Artificial Intelligence and Robotics at VIT Chennai.
 
-My long-term goal is to build intelligent robots that help humans perform dangerous and challenging tasks.
+I'm passionate about building intelligent robotic systems by combining robotics software, AI, and computer vision. Currently, I'm strengthening my foundation in ROS 2, robotics software development, and agentic AI while building projects in public.
+
+My long-term goal is to become a Robotics Software Engineer working on autonomous and intelligent robotic systems.
 
 ---
 
 ## 🌱 Currently Learning
 
-- ROS2
-- Data Structures & Algorithms
-- Computer Vision
-- Robotics Software Development
-- Agentic AI Systems
+- 🤖 ROS 2 Jazzy
+- 🐧 Linux & Ubuntu
+- 📚 Data Structures & Algorithms
+- 👁️ Computer Vision
+- 🧠 Robotics Software Development
+- 🤖 Agentic AI Systems
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-- Python
-- Java
-- C/C++
 
-### Tools & Technologies
-- Git & GitHub
-- Linux / Ubuntu
+- Python
+- C++
+- Java
+
+### Robotics
+
+- ROS 2 Jazzy
+- rclpy
+- rclcpp
+- RQt
+- TurtleSim
+
+### AI
+
 - LangChain
+- LangGraph
 - Ollama
+- FAISS
+- RAG
+
+### Tools
+
+- Git & GitHub
+- Ubuntu Linux
+- VS Code
 - Jupyter Notebook
 
 ---
 
 ## 📌 Featured Projects
 
+### 🤖 ROS 2 Learning Journey
+
+Documenting my journey through ROS 2 Jazzy with notes, activities, mini-projects, architecture diagrams, and demonstrations.
+
+---
+
+### 🤖 AI Customer Support Automation
+
+Multi-agent customer support system using LangGraph, RAG, SQLite memory, and human approval workflows.
+
+---
+
 ### 🎓 Smart College Assistant
-AI-powered college assistant built using LangChain, Ollama, and Python.
 
-### 🐍 Python Learning Repository
-A collection of projects documenting my journey through the 100 Days of Code Python Bootcamp.
+AI-powered academic assistant using LangChain tool-calling agents.
 
+---
+
+### 💼 HR Assistant
+
+Local RAG-powered HR assistant built with Ollama, FAISS, and LangChain.
 ---
 
 ## 🎯 Current Roadmap
 
-- ✅ Python Fundamentals
-- ✅ AI Foundations
-- ✅ LangChain Projects
-- 🔄 ROS2
-- 🔄 DSA
-- 🔄 Computer Vision
-- ⬜ Autonomous Navigation
+### Robotics
+
+- ✅ ROS 2 Fundamentals
+- 🔄 ROS 2 Communication
+- 🔄 C++ for Robotics
+- ⬜ TF2
+- ⬜ Launch Files
+- ⬜ URDF
+- ⬜ Gazebo
+- ⬜ Nav2
 - ⬜ SLAM
-- ⬜ Personal Assistant Robot
-- ⬜ Robotics Research Projects
+
+### AI
+
+- ✅ LangChain
+- ✅ LangGraph
+- 🔄 Agentic AI
+- 🔄 Computer Vision
+
+### Computer Science
+
+- 🔄 DSA
+- 🔄 System Design
+  
+---
+
+## 📈 Current Focus
+
+Building a portfolio that combines
+
+- 🤖 Robotics Software
+- 🧠 AI Systems
+- 👁️ Computer Vision
+- ⚙️ ROS 2
+- 🐧 Linux
 
 ---
 
 ## 🌌 Philosophy
+
 
 > Observe. Analyze. Understand. Build. Inspire.
 
