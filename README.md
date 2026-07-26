@@ -1,145 +1,100 @@
-<img width="1500" height="500" alt="DIYA JABIN" src="https://github.com/user-attachments/assets/40221a58-989c-449f-ab34-19ca60a4d8c7" />
+# Hi, I'm Diya 👋
 
-<h1 align="center">Hi 👋 I'm Diya</h1>
+Computer Science (AI & Robotics) Student @ VIT Chennai
 
-<p align="center">
-🎓 CSE-AIR Student @ VIT Chennai
-<br>
-🤖 Aspiring Robotics Engineer
-<br>
-🌱 Learning. Building. Exploring.
-</p>
+Building robotics software and AI systems.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a Computer Science student specializing in Artificial Intelligence and Robotics at VIT Chennai.
+I'm a third-year Computer Science student specializing in Artificial Intelligence and Robotics at VIT Chennai.
 
-I'm passionate about building intelligent robotic systems by combining robotics software, AI, and computer vision. Currently, I'm strengthening my foundation in ROS 2, robotics software development, and agentic AI while building projects in public.
+My primary interests lie in robotics software, artificial intelligence, and computer vision. I'm currently building a strong foundation in ROS 2, Linux, C++, and modern AI frameworks by documenting my learning through hands-on projects and open GitHub repositories.
 
-My long-term goal is to become a Robotics Software Engineer working on autonomous and intelligent robotic systems.
-
----
-
-## 🌱 Currently Learning
-
-- 🤖 ROS 2 Jazzy
-- 🐧 Linux & Ubuntu
-- 📚 Data Structures & Algorithms
-- 👁️ Computer Vision
-- 🧠 Robotics Software Development
-- 🤖 Agentic AI Systems
+My long-term goal is to become a Robotics Software Engineer developing intelligent and autonomous robotic systems.
 
 ---
 
-## 🛠️ Tech Stack
+## Current Focus
 
-### Languages
+I'm currently exploring ROS 2 Jazzy, robotics software development, Linux, computer vision, and modern AI systems.
 
-- Python
-- C++
-- Java
+Alongside robotics, I enjoy building AI applications using LangChain, LangGraph, retrieval-augmented generation (RAG), and local language models.
+
+I believe in learning by building, which is why most of my repositories document my progress through practical implementations, notes, and projects.
+
+---
+
+## Tech Stack
 
 ### Robotics
 
-- ROS 2 Jazzy
-- rclpy
-- rclcpp
-- RQt
-- TurtleSim
+![ROS2](https://img.shields.io/badge/ROS2-Jazzy-22314E?logo=ros&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420?logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-### AI
+### Programming
 
-- LangChain
-- LangGraph
-- Ollama
-- FAISS
-- RAG
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+
+### AI & LLM Frameworks
+
+![LangChain](https://img.shields.io/badge/LangChain-121212)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212)
+![Ollama](https://img.shields.io/badge/Ollama-000000)
+![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6C63FF)
 
 ### Tools
 
-- Git & GitHub
-- Ubuntu Linux
-- VS Code
-- Jupyter Notebook
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=DiyaJabin&show_icons=true&theme=transparent&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyaJabin&layout=compact&theme=transparent&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=DiyaJabin&theme=transparent&hide_border=true)
+
+---
+
+## Featured Projects
 
 ### 🤖 ROS 2 Learning Journey
 
-Documenting my journey through ROS 2 Jazzy with notes, activities, mini-projects, architecture diagrams, and demonstrations.
+A structured repository documenting my ROS 2 learning through lessons, activities, demonstrations, and implementations in both Python and C++.
 
----
+### 🤖 Agentic AI Customer Support Automation
 
-### 🤖 AI Customer Support Automation
-
-Multi-agent customer support system using LangGraph, RAG, SQLite memory, and human approval workflows.
-
----
+A multi-agent customer support system built using LangGraph, retrieval-augmented generation (RAG), SQLite memory, and human approval workflows.
 
 ### 🎓 Smart College Assistant
 
-AI-powered academic assistant using LangChain tool-calling agents.
+An AI-powered academic assistant built with LangChain, tool-calling agents, and local language models.
+
+### 💼 AI HR Assistant
+
+A local RAG-powered HR assistant using LangChain, FAISS, Ollama, and PDF knowledge retrieval.
 
 ---
 
-### 💼 HR Assistant
+## Currently Learning
 
-Local RAG-powered HR assistant built with Ollama, FAISS, and LangChain.
-
----
-
-## 🎯 Current Roadmap
-
-### Robotics
-
-- ✅ ROS 2 Fundamentals
-- 🔄 ROS 2 Communication
-- 🔄 C++ for Robotics
-- ⬜ TF2
-- ⬜ Launch Files
-- ⬜ URDF
-- ⬜ Gazebo
-- ⬜ Nav2
-- ⬜ SLAM
-
-### AI
-
-- ✅ LangChain
-- ✅ LangGraph
-- 🔄 Agentic AI
-- 🔄 Computer Vision
-
-### Computer Science
-
-- 🔄 DSA
-- 🔄 System Design
-  
----
-
-## 📈 Current Focus
-
-Building a portfolio that combines
-
-- 🤖 Robotics Software
-- 🧠 AI Systems
-- 👁️ Computer Vision
-- ⚙️ ROS 2
-- 🐧 Linux
+- ROS 2 Jazzy
+- Robotics Software Engineering
+- Computer Vision
+- Linux Development
+- Data Structures & Algorithms
 
 ---
 
-## 🌌 Philosophy
-
-
-> Observe. Analyze. Understand. Build. Inspire.
-
----
-
-<p align="center">
-  <i>Building intelligent systems one project at a time.</i>
-</p>
-```
+> *Building intelligent systems one project at a time.*
