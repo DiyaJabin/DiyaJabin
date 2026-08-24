@@ -1,72 +1,105 @@
 # Hi, I'm Diya 👋
 
-### CSE (AI & Robotics) @ VIT Chennai | Aspiring Robotics Software Engineer 🤖
+Computer Science (AI & Robotics) Student @ VIT Chennai
 
-I'm a Computer Science student focused on **robotics software, autonomous systems, and AI**.
-
-I learn by building practical projects with **ROS 2, Python, C++, Linux, and modern AI frameworks**.
+Building robotics software and AI systems.
 
 ---
 
-## 🚀 Current Focus
+## About Me
 
-* 🤖 ROS 2 & Robotics Software
-* 🦾 Autonomous Robotic Systems
-* 👁️ Computer Vision
-* 🧠 AI, RAG & Agentic Systems
-* 💻 C++ & Python
-* 🐧 Linux Development
+I'm a third-year Computer Science student specializing in Artificial Intelligence and Robotics at VIT Chennai.
 
----
+My primary interests lie in **robotics software, artificial intelligence, and autonomous systems**. I'm currently building a strong foundation in ROS 2, Linux, C++, Python, and modern AI frameworks through hands-on projects and practical experimentation.
 
-## 🛠️ Tech Stack
-
-**Robotics:** ROS 2 Jazzy · Ubuntu · Linux
-
-**Programming:** Python · C++ · C · Java
-
-**AI:** LangChain · LangGraph · Ollama · FAISS · RAG
-
-**Tools:** Git · GitHub · VS Code · PyCharm · CMake
+My long-term goal is to become a **Robotics Software Engineer** developing intelligent and autonomous robotic systems.
 
 ---
 
-## 📌 Featured Projects
+## Current Focus
 
-### 🤖 ROS 2 Learning
+I'm currently exploring **ROS 2 Jazzy, robotics software development, Linux, computer vision, and autonomous systems**.
 
-Hands-on ROS 2 Jazzy learning through practical implementations, experiments, and notes.
+Alongside robotics, I enjoy building AI applications using **LangChain, LangGraph, RAG, Ollama, FAISS, and local language models**.
 
-### 🐢 Catch the Turtles — ROS 2
-
-A multi-node ROS 2 application exploring **custom interfaces, dynamic spawning, and proportional control**.
-
-### 🧠 Agentic AI Customer Support
-
-Multi-agent customer support automation using **LangGraph, RAG, SQLite memory, and human-in-the-loop workflows**.
-
-### 💼 AI HR Assistant
-
-Local RAG-based HR assistant using **LangChain, FAISS, Ollama, and PDF retrieval**.
-
-### 🎓 Smart College Assistant
-
-AI-powered college assistant using **LangChain, tool-calling agents, Ollama, and Python**.
+I believe in learning by building, which is why my repositories document my progress through practical implementations, experiments, and projects.
 
 ---
 
-## 📚 Currently Learning
+## Tech Stack
 
-**ROS 2 · C++ · Computer Vision · Autonomous Systems · DSA · Linux**
+### Robotics
+
+![ROS2](https://img.shields.io/badge/ROS2-Jazzy-22314E?logo=ros\&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420?logo=ubuntu\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus\&logoColor=white)
+
+### AI & LLM Frameworks
+
+![LangChain](https://img.shields.io/badge/LangChain-121212)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212)
+![Ollama](https://img.shields.io/badge/Ollama-000000)
+![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6C63FF)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode\&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm\&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake\&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=DiyaJabin\&show_icons=true\&theme=transparent\&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiyaJabin\&layout=compact\&theme=transparent\&hide_border=true)
 
+![](https://streak-stats.demolab.com?user=DiyaJabin\&theme=transparent\&hide_border=true)
+
 ---
 
-> **Building intelligent systems, one project at a time. 🤖**
+## Featured Projects
+
+### 🐢 Catch the Turtles — ROS 2
+
+A ROS 2 multi-node application where a master turtle catches dynamically spawned turtles using **custom interfaces and a proportional controller**.
+
+### 🤖 ROS 2 Learning
+
+A hands-on repository documenting my **ROS 2 Jazzy learning journey** through notes, experiments, activities, and practical implementations.
+
+### 🤖 Agentic AI Customer Support Automation
+
+An AI-powered customer support automation system using **LangGraph, Ollama, RAG, SQLite memory, human-in-the-loop approval, and supervisor validation**.
+
+### 💼 AI HR Assistant — RAG
+
+A local AI-powered HR assistant using **LangChain, Ollama, FAISS, and RAG** for HR policy Q&A and candidate support.
+
+### 🎓 Smart College Assistant
+
+An AI-powered college assistant using **LangChain tool-calling agents, Ollama, and Python**.
+
+---
+
+## Currently Learning
+
+* ROS 2 Jazzy
+* Robotics Software Engineering
+* Computer Vision
+* Autonomous Systems
+* Linux Development
+* Data Structures & Algorithms
+
+---
+
+> *Building intelligent systems one project at a time.*
